@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Pinto](https://github.com/PintoIM/Pinto)
 - 📫 How to reach me: v1od on Discord
 - 😄 Pronouns: he/him
 
