@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: v1od on Discord
+- 📫 How to reach me: vlod2 on Discord
 - 😄 Pronouns: he/him
 
 
