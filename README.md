@@ -1,6 +1,4 @@
-### Hi there 👋
-- 📫 How to reach me: vlod2 on Discord
-- 😄 Pronouns: he/him
+Join my Discord server, where you can always find me, news and builds for my projects: https://discord.gg/hb5X9Kasqc
 
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=vlOd2&show_icons=true&bg_color=00000000)
